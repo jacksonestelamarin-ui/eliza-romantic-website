@@ -31,7 +31,7 @@ export default function App() {
   return (
     <main className="relative min-h-screen w-full font-body text-white">
       <KenBurnsBackground
-        src="/templejpg.jpeg"
+       src="/temple.jpg"
         fallback="/temple-placeholder.svg"
         overlay={0.3}
       />

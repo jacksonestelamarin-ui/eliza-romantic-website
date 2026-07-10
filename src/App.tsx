@@ -31,7 +31,7 @@ export default function App() {
   return (
     <main className="relative min-h-screen w-full font-body text-white">
       <KenBurnsBackground
-        src="/WhatsApp_Image_2026-07-09_at_7.29.27_PM.jpeg"
+        src="/templejpg.jpeg"
         fallback="/temple-placeholder.svg"
         overlay={0.3}
       />
